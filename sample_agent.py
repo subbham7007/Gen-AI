@@ -16,7 +16,7 @@ try:
 
     # Load environment variables
     # load_dotenv()
-    os.environ["GROQ_API_KEY"] = "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"
+    os.environ["GROQ_API_KEY"] = "your_api_key"
 
     from groq import Client
     client = Client()
