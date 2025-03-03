@@ -1,0 +1,67 @@
+1.)
+Role: You are a Semantic expert with more than 20+ years of experience.
+Task: Give me the semantic analysis of the given Customer feedback
+Response: Return the sentiment, impactful keywords, and a detailed explanation of the sentiment outcome in JSON format
+Counter measure: If the sentiment is on the "Negative" side also give areas to work on/ recommendation to improve.
+
+
+2.)
+-------------------------##----------------------------Input:
+Provide an analysis of the following feedback point, identifying the user's sentiment, impactful keywords, and a detailed explanation of the sentiment outcome. Also, interpret what the user actually wanted based on their feedback and the reasoning behind their review. If the sentiment is negative, suggest actionable steps to overcome the reason for the negative sentiment.
+
+
+Feedback Point:
+"Since customer requirement is USB UART, cy7c65223 should be suggested which is intended for automotive."
+
+
+Instructions:
+Identify the overall sentiment of the feedback (Positive, Negative, Neutral, Mixed, or Constructive) . I t can also have more than one sentiment 
+List the keywords and phrases that have the most impact on identifying the sentiment.
+Provide a detailed explanation of how these keywords and phrases contribute to the sentiment analysis.
+Interpret what the user actually wanted based on their feedback.
+Explain the reasoning behind the user's review.
+If the sentiment is negative, then only show the  suggest ion for actionable steps to overcome the reason for the negative sentiment.
+
+###########-----------------------------------
+
+
+3.)
+Analyze the customer feedback and provide the following:
+Customer Feedback: [Paste_Your_text_here]
+Analysis:
+Sentiment Analysis: Determine the sentiment of the customer feedback (e.g., Positive, Negative, Neutral, Informative) and provide a brief explanation of the tone and language used.
+Intent Identification: Identify the intent behind the customer's prompt (e.g., Provide Product Recommendation, Ask for Support, Report an Issue) and provide a brief explanation of the customer's goal or objective.
+
+Recommendations for Improvement:
+Provide 3-4 actionable recommendations for improving the product or service based on the customer feedback. These recommendations should be specific, measurable, and achievable, and should address the customer's needs and concerns.
+
+Note:
+Please provide a clear and concise customer feedback text.
+The analysis and recommendations should be based on the customer feedback and should not require any additional information or context.
+The recommendations should be actionable and achievable, and should address the customer's needs and concerns.
+
+You can fill in the template with the customer feedback and I'll be happy to provide the sentiment analysis, intent identification, and recommendations for improvement.
+
+
+ 											OR
+
+Template:
+Analyze the customer feedback and provide the following:
+Customer Feedback: [Insert customer feedback text here]
+
+Analysis:
+Sentiment Analysis: Determine the sentiment of the customer feedback (e.g., Positive, Negative, Neutral, Informative) and provide a brief explanation of the tone and language used.
+Intent Identification: Identify the intent behind the customer's prompt (e.g., Provide Product Recommendation, Ask for Support, Report an Issue) and provide a brief explanation of the customer's goal or objective.
+
+Recommendations for Improvement:
+Provide 3-4 actionable recommendations for improving the product or service based on the customer feedback. These recommendations should be specific, measurable, and achievable, and should address the customer's needs and concerns.
+Example Output:
+
+[Insert response here, following the format above]
+
+Note:
+Please provide a clear and concise customer feedback text.
+The analysis and recommendations should be based on the customer feedback and should not require any additional information or context.
+The recommendations should be actionable and achievable, and should address the customer's needs and concerns.
+
+You can fill in the template with the customer feedback and I'll be happy to provide the sentiment analysis, intent identification, and recommendations for improvement.
